@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>imports/controls/MyRadioButton.qml</file>
+        <file>imports/controls/MyCheckBox.qml</file>
+        <file>check.png</file>
+        <file>imports/controls/MySwitch.qml</file>
+    </qresource>
+</RCC>
